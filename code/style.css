@@ -1,0 +1,37 @@
+body{
+        background-image: url(https://www.fakaheda.eu/images/product_medias/7-days-to-die.jpg);
+        display: flex;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+}
+
+p{
+        color:palegreen;
+        font-size: 20px;
+}
+
+h2{
+        font-size: 40px;
+        text-decoration: underline;
+        text-decoration-color: aliceblue;
+        padding: 10px solid;
+        text-underline-offset: 10px;
+}
+
+li{
+        list-style-type: disc;
+        font-size: 50;
+}
+
+h1{
+        padding: 50px;
+        font-size: 100px;
+        color: chartreuse;
+}
+
+
+a {
+        text-decoration: none;
+        font-size: 25px; 
+}
