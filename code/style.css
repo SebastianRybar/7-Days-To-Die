@@ -1,21 +1,10 @@
-body{
-        background-image: url(https://www.fakaheda.eu/images/product_medias/7-days-to-die.jpg);
-        display: flex;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-size: cover;
-}
-
 p{
-        color:palegreen;
         font-size: 20px;
 }
 
 h2{
         font-size: 40px;
         text-decoration: underline;
-        text-decoration-color: aliceblue;
-        padding: 10px solid;
         text-underline-offset: 10px;
 }
 
@@ -25,11 +14,15 @@ li{
 }
 
 h1{
-        padding: 50px;
-        font-size: 100px;
-        color: chartreuse;
+        text-decoration: underline;
+        font-size: 100px; 
+        text-underline-offset: 25px;
 }
 
+img {
+        width: 600px;
+        height: 300px;
+}
 
 a {
         text-decoration: none;
