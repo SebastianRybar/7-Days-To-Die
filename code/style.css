@@ -1,0 +1,35 @@
+body {
+        background-color:blanchedalmond;
+}
+
+
+p{
+        font-size: 20px;
+}
+
+h2{
+        font-size: 40px;
+        text-decoration: underline;
+        text-underline-offset: 10px;
+}
+
+li{
+        list-style-type: disc;
+        font-size: 50;
+}
+
+h1{
+        text-decoration: underline;
+        font-size: 100px; 
+        text-underline-offset: 25px;
+}
+
+img {
+        width: 600px;
+        height: 300px;
+}
+
+a {
+        text-decoration: none;
+        font-size: 25px; 
+}
